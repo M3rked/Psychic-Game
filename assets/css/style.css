@@ -1,0 +1,17 @@
+.box {
+    font: bold;
+    text-align: center;
+  
+    padding: 5%;
+    width: 20%;
+    align-items: center;
+
+}
+
+H1{
+    text-align: left;
+    font-size: 25px;
+    font-style: bold;
+    margin: 5%; 
+    padding: 5%;
+}
